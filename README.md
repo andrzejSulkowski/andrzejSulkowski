@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Andrzej Sulkowski
 
-<!--
-**andrzejSulkowski/andrzejSulkowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Building Gitorial — Git-Based Coding Tutorials for the VS Code Era
 
-Here are some ideas to get you started:
+I'm the creator of **[Gitorial](https://github.com/andrzejSulkowski/gitorial-vs-code-extension)** — an open specification and VS Code extension for writing hands-on Git-based coding tutorials.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Whether you're an educator, mentor, or open-source contributor, Gitorial helps you deliver interactive coding experiences without relying on proprietary platforms.
+
+---
+
+## 🧠 About Me
+
+I'm a freelance full-stack engineer with a focus on **developer tooling**, **Web3**, and **digital education**. Over the past 4+ years, I've worked across sectors like energy, education, and blockchain — using technology to simplify complex ideas and help others learn faster.
+
+---
+
+## 🧰 Tech Stack
+
+- **Frontend:** Vue.js, Nuxt, Next.js, Ionic (Capacitor)
+- **Backend:** Node.js, Axum (Rust), Django, Strapi
+- **DevOps:** Docker, GitHub Actions, Nix
+- **Other:** PostgreSQL, Swift (LiDAR), Playwright, Rust (Substrate)
+
+---
+
+## 🎓 Education & Ecosystem Involvement
+
+- 🧱 Graduate of **Polkadot Blockchain Academy** (Protocol Track) — specializing in FRAME, XCM, and on-chain governance
+- 🧠 BSc. Thesis on **Self-Sovereign Identity**
+- 🔁 Alumni of **DeFi Talents** by Frankfurt School Blockchain Center
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrzejSulkowski&show_icons=true&count_private=true&hide=stars)
+
+---
+
+## 🔗 Connect With Me
+
+- 🌍 [Website](https://www.andrzej-sulkowski.com/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/andrzej-sulkowski-600b89208/)
+- 🎥 [YouTube](https://www.youtube.com/@andrzej_sulkowski)
+- 🐦 [Twitter / X](https://x.com/andrzej_io)
+
+---
