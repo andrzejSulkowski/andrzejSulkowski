@@ -2,7 +2,7 @@
 
 ### 🛠️ Building Gitorial — Git-Based Coding Tutorials for the VS Code Era
 
-I'm the creator of **[Gitorial](https://github.com/andrzejSulkowski/gitorial-vs-code-extension)** — an open specification and VS Code extension for writing hands-on Git-based coding tutorials.
+I'm the creator of **[Gitorial](https://github.com/andrzejSulkowski/gitorial-vs-code-extension)** — a VS Code extension for writing hands-on Git-based coding tutorials based on a Gitorial specification.
 
 Whether you're an educator, mentor, or open-source contributor, Gitorial helps you deliver interactive coding experiences without relying on proprietary platforms.
 
