@@ -39,7 +39,7 @@ I'm a freelance full-stack engineer with a focus on **developer tooling**, **Web
 
 ## 🔗 Connect With Me
 
-- 🌍 [Website](https://www.andrzej-sulkowski.com/)
+- 🌍 [Website](https://andrzej-sulkowski.com/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/andrzej-sulkowski-600b89208/)
 - 🎥 [YouTube](https://www.youtube.com/@andrzej_sulkowski)
 - 🐦 [Twitter / X](https://x.com/andrzej_io)
