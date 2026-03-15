@@ -1,16 +1,12 @@
 # 👋 Hi, I'm Andrzej Sulkowski
-
-### 🛠️ Building Gitorial — Git-Based Coding Tutorials for the VS Code Era
-
-I'm the creator of **[Gitorial](https://github.com/andrzejSulkowski/gitorial-vs-code-extension)** — a VS Code extension for writing hands-on Git-based coding tutorials based on a Gitorial specification.
-
-Whether you're an educator, mentor, or open-source contributor, Gitorial helps you deliver interactive coding experiences without relying on proprietary platforms.
+🔐 Working on Proof of Personhood @ Parity Technologies | Based in Nicosia, Cyprus
+I'm a full-stack engineer currently focused on Proof of Personhood at Parity Technologies — tackling one of the harder problems in decentralized systems: proving a human is unique without collecting any personal markers, in a fully decentralized way.
 
 ---
 
 ## 🧠 About Me
 
-I'm a freelance full-stack engineer with a focus on **developer tooling**, **Web3**, and **digital education**. Over the past 4+ years, I've worked across sectors like energy, education, and blockchain — using technology to simplify complex ideas and help others learn faster.
+I'm a full-stack engineer with a focus on **Web3**, **developer tooling**, and **digital identity**. Over the past 4+ years, I've worked across sectors like energy, education, and blockchain — using technology to simplify complex ideas and solve hard problems at the protocol level.
 
 ---
 
@@ -28,6 +24,12 @@ I'm a freelance full-stack engineer with a focus on **developer tooling**, **Web
 - 🧱 Graduate of **Polkadot Blockchain Academy** (Protocol Track) — specializing in FRAME, XCM, and on-chain governance
 - 🧠 BSc. Thesis on **Self-Sovereign Identity**
 - 🔁 Alumni of **DeFi Talents** by Frankfurt School Blockchain Center
+
+---
+
+## 🗂️ Past Projects
+
+- 🛠️ **[Gitorial](https://github.com/andrzejSulkowski/gitorial-vs-code-extension)** — A VS Code extension for writing hands-on Git-based coding tutorials. Archived but open for exploration.
 
 ---
 
