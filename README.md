@@ -29,7 +29,7 @@ I'm a full-stack engineer with a focus on **Web3**, **developer tooling**, and *
 
 ## 🗂️ Past Projects
 
-- 🛠️ **[Gitorial](https://github.com/andrzejSulkowski/gitorial-vs-code-extension)** — A VS Code extension for writing hands-on Git-based coding tutorials. Archived but open for exploration.
+- 🛠️ **[Gitorial](https://github.com/andrzejSulkowski/gitorial-vs-code-extension)** — A VS Code extension for writing hands-on Git-based coding tutorials. Stale but open for exploration.
 
 ---
 
